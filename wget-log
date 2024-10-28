@@ -1,0 +1,33 @@
+--2024-10-27 07:32:15--  https://cdn-media.huggingface.co/frpc-gradio-0.2/frpc_linux_amd64
+Resolving cdn-media.huggingface.co (cdn-media.huggingface.co)... 210.56.51.192, 2a03:2880:f126:83:face:b00c:0:25de
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|210.56.51.192|:443... failed: Connection timed out.
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|2a03:2880:f126:83:face:b00c:0:25de|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2024-10-27 07:34:27--  (try: 2)  https://cdn-media.huggingface.co/frpc-gradio-0.2/frpc_linux_amd64
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|210.56.51.192|:443... failed: Connection timed out.
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|2a03:2880:f126:83:face:b00c:0:25de|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2024-10-27 07:36:39--  (try: 3)  https://cdn-media.huggingface.co/frpc-gradio-0.2/frpc_linux_amd64
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|210.56.51.192|:443... failed: Connection timed out.
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|2a03:2880:f126:83:face:b00c:0:25de|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2024-10-27 07:38:53--  (try: 4)  https://cdn-media.huggingface.co/frpc-gradio-0.2/frpc_linux_amd64
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|210.56.51.192|:443... failed: Connection timed out.
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|2a03:2880:f126:83:face:b00c:0:25de|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2024-10-27 07:41:07--  (try: 5)  https://cdn-media.huggingface.co/frpc-gradio-0.2/frpc_linux_amd64
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|210.56.51.192|:443... failed: Connection timed out.
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|2a03:2880:f126:83:face:b00c:0:25de|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2024-10-27 07:43:23--  (try: 6)  https://cdn-media.huggingface.co/frpc-gradio-0.2/frpc_linux_amd64
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|210.56.51.192|:443... failed: Connection timed out.
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|2a03:2880:f126:83:face:b00c:0:25de|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2024-10-27 07:45:39--  (try: 7)  https://cdn-media.huggingface.co/frpc-gradio-0.2/frpc_linux_amd64
+Connecting to cdn-media.huggingface.co (cdn-media.huggingface.co)|210.56.51.192|:443... 
